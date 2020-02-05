@@ -1,0 +1,5 @@
+eventlet==0.25.1
+Flask==1.1.1
+Flask-SocketIO==4.2.1
+pyserial==3.4
+Flash-Cors==3.0.8
